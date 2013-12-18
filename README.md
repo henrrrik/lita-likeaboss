@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/henrrrik/lita-likeaboss.png)](https://codeclimate.com/github/henrrrik/lita-likeaboss)
 [![Coverage Status](https://coveralls.io/repos/henrrrik/lita-likeaboss/badge.png)](https://coveralls.io/r/henrrrik/lita-likeaboss)
 
-i**lita-likeaboss** is a handler for [Lita](https://github.com/jimmycuadra/lita) that outputs random 'like a boss' images.net. This is based on the hubot likeaboss script.
+**lita-likeaboss** is a handler for [Lita](https://github.com/jimmycuadra/lita) that outputs random 'like a boss' images.net. This is based on the hubot likeaboss script.
 
 ## Installation
 
